@@ -22,7 +22,7 @@ console.log(apellido);
 var ciudad = 'La Paz', pais = "Bolivia";
 console.log('Pais: ' + pais + ' Ciudad: ' + ciudad);
 
-/* JavaScript es devilmente tipado: Una variable puede cambiar el tipo de dato que contiene. */
+/* JavaScript es débilmente tipado: Una variable puede cambiar el tipo de dato que contiene. */
 var peso = 73; /* Valor de tipo Number */
 console.log('Mi peso es de ' + peso + 'kg.');
 
